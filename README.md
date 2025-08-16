@@ -30,5 +30,15 @@ Press CTRL+C to quit
  * Debugger is active!
  * Debugger PIN: 402-750-754
 
+Then open [http://127.0.0.1:5000/] in your browser.
 
-Screenshot: output.png
+## Screenshots
+
+![Home Page](output.png)
+
+## Key Concepts
+
+- Flask routing & templates
+- Jinja2 for dynamic content
+- HTML forms and basic web design
+
